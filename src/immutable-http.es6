@@ -4,8 +4,6 @@
 
 /*jshint esnext: true */
 
-import Promise from 'promise';
-
 class Http {
   constructor(url = null, method = null,
     headers = new Map(), body = null,
