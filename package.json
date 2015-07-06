@@ -28,7 +28,6 @@
   "devDependencies": {
     "babel": "^4.6.5",
     "babel-jest": "^4.0.0",
-    "babel-runtime": "^5.6.15",
     "body-parser": "^1.12.0",
     "express": "^4.12.0",
     "jest": "^0.1.37",
@@ -49,5 +48,8 @@
       "json",
       "es6"
     ]
+  },
+  "dependencies": {
+    "babel-runtime": "^5.6.15"
   }
 }
